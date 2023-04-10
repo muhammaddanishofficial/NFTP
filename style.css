@@ -13,7 +13,7 @@ a{
 }
 header{
     /* border: 1px solid black; */
-    padding: 0 50px;
+    padding: 10px 50px;
 }
 .hambergur{
     display: none;
@@ -174,5 +174,23 @@ footer p{
     }
     #mainPart #bannar{
         width: 100%;
+    }
+    
+    
+    header{
+        padding: 10px 10px;
+    }
+    #logoPart{
+        /* border: 1px solid black; */
+    }
+    #logoPart #logo{
+        width: 40%;
+    }
+    #logoPart #logo{
+        
+        margin: 0 10px 0 0;
+    }
+    #logoPart #title{
+        width: 50%;
     }
 }
