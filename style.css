@@ -136,7 +136,7 @@ footer p{
     .nav-bar{
         height: 0px;
         position: absolute;
-        top: 30px;
+        top: 50px;
         right: 0;
         left: 0;
         width: 100vw;
@@ -179,9 +179,6 @@ footer p{
     
     header{
         padding: 10px 10px;
-    }
-    #logoPart{
-        /* border: 1px solid black; */
     }
     #logoPart #logo{
         width: 40%;
